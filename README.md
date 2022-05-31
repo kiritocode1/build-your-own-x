@@ -2,7 +2,7 @@
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. It's a great way to learn. Submissions welcome, just send a PR.
 
-> *What I cannot create, I do not understand — Richard Feynman.*
+# *What I cannot create, I do not understand — Richard Feynman.*
 
 ## Table of Contents: Build your own X
 
